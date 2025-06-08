@@ -1,0 +1,61 @@
+.navbar {
+    background-color: rgb(198,220,186);
+}
+
+.hero-title {
+    font-family: 'Gistesy', sans-serif;
+    font-size: 55px;
+}
+
+.hero-section{
+    background: linear-gradient(to right, rgb(236, 255, 225) 50%, white 50%);
+    min-height: calc(100vh - 120px);
+    display: flex;
+    justify-content: center;
+}
+
+#legado{
+    min-height: calc(100vh - 245px);
+}
+
+footer{
+    background-color: #BBC3A4;
+}
+
+@font-face {
+    font-family: 'Gistesy';
+    src: url('fonts/Gistesy.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Prata-Regular';
+    src: url('fonts/Prata-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.legado{
+    color: #744729;
+}
+
+.ativo{
+    color: #A2704D;
+}
+
+.parag{
+    color:#744729;
+}
+
+.parag p{
+    font-size: 20px;
+}
+
+.titu{
+    font-family: 'Prata-Regular';
+}
+
+
+
+
